@@ -1,0 +1,46 @@
+# Siddhast
+
+> Siddhast Intellectual Property Innovation Pvt. Ltd. is a consulting and technology company established in 2005, headquartered in Jhansi, Uttar Pradesh, India. Siddhast partners with businesses, innovators, startups, institutions, and enterprises across India and the SAARC region, delivering integrated services in IT consulting, IT asset management, intellectual property protection, innovation advisory, and digital business solutions.
+
+Siddhast operates through three business verticals: **Siddhast Innovation** (IT consulting and ITAM), **Siddhast Intellectual Property** (trademark, copyright, patent, and design services), and **Siddhast Trade & Commerce** (enterprise software, CRM/ERP, and BuckBuck WhatsApp Business API solutions).
+
+**Corporate office:** Siddhast Intellectual Property Innovation Pvt. Ltd., 1481/A Chandra Vihar Colony, Jhansi, Uttar Pradesh 284001, India
+
+**Contact:** +91 8840091424 | support@siddhast.com | ip@siddhast.com | info@siddhast.com | Landline: 0510-4012932
+
+## Company
+
+- [Homepage](https://www.siddhast.com/): Corporate overview, business verticals, core values, heritage, news, and brand portfolio
+- [About Us](https://www.siddhast.com/about-us/): Company background, mission, vision, and core values since 2005
+- [Contact Us](https://www.siddhast.com/contact-us/): Corporate office address, phone, email, and enquiry form
+- [Values & Purpose](https://www.siddhast.com/values-and-purpose/): Guiding principles and organizational purpose
+- [Our Heritage](https://www.siddhast.com/heritage/): Roots in the KIET Group of Institutions innovation ecosystem
+- [Leadership](https://www.siddhast.com/leadership/): Leadership team
+- [Investor Relations](https://www.siddhast.com/investors/): Information for investors and stakeholders
+- [Code of Conduct](https://www.siddhast.com/code-of-conduct/): Ethical standards and workplace conduct
+
+## Business Verticals
+
+- [Business Overview](https://www.siddhast.com/business/): Summary of Siddhast's integrated consulting and technology services
+- [Siddhast Innovation (IT)](https://www.siddhast.com/siddhast-innovation/): IT consulting, digital transformation, infrastructure planning, and IT asset lifecycle management
+- [Siddhast Intellectual Property (IP)](https://www.siddhast.com/siddhast-intellectual-property-siddhast-ip/): Trademark, copyright, patent, and design registration; IP strategy; brand protection; startup IP support
+- [Siddhast Trade & Commerce](https://www.siddhast.com/siddhast-trade-and-commerce/): Enterprise software, CRM/ERP, cloud platforms, and commercial technology services
+- [Our Brands](https://www.siddhast.com/brands/): Siddhast brands and product portfolio including BuckBuck
+
+## External Products & Careers
+
+- [BuckBuck](https://www.buckbuck.co.in): WhatsApp Business API, RCS messaging, and customer engagement platform by Siddhast Trade & Commerce
+- [Careers on Naukri](https://www.naukri.com/siddhast-intellectual-property-innovations-jobs-careers-1038052): Current job openings at Siddhast
+
+## Sponsorships & Engagement
+
+- [Sponsorships & Industry Engagement](https://www.siddhast.com/sponsorships/): Academic fests, innovation conferences, alumni meets, and industry partnerships (e.g. INNOVANZA at BIET Jhansi, CSIR-NPL conferences, KIET alumni events)
+
+## Optional
+
+- [Newsroom / Blog](https://www.siddhast.com/): Articles on intellectual property, trademarks, patents, innovation, and technology policy — primarily in English and Hindi
+- [RSS Feed](https://www.siddhast.com/feed.xml): Latest posts and updates
+- [JSON Feed](https://www.siddhast.com/feed.json): Machine-readable feed of recent articles
+- [All Tags](https://www.siddhast.com/tags/): Topic index including patents, trademarks, copyright, and innovation
+- [Site Search](https://www.siddhast.com/search.html): On-site search page
+- [Sitemap](https://www.siddhast.com/sitemap.xml): Full list of indexable pages

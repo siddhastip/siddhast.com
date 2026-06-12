@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700&display=swap');
+@import "tailwindcss";
+@source "../../**/*.hbs";
+
+/* Brand palette from 14.svg */
+@theme {
+  --color-brand-dark: #1a1445;
+  --color-brand-dark-deep: #1a1445;
+  --color-brand-selection: #ffff99;
+  --color-brand-selection-light: #ffffcc;
+  --color-brand-selection-muted: #ffffe5;
+  --color-brand-muted: #6f7897;
+  --color-brand-accent: #934b33;
+}
+
+@import "./main.css";

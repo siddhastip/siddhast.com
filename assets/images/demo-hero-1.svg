@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Lorem Ipsum Enterprise Demo Image</title>
+  <desc id="desc">Abstract enterprise office and skyline background.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#082f49"/>
+      <stop offset="0.55" stop-color="#0f172a"/>
+      <stop offset="1" stop-color="#7c2d12"/>
+    </linearGradient>
+    <linearGradient id="glass" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.52"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0.06"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="900" fill="url(#bg)"/>
+  <circle cx="1270" cy="170" r="260" fill="#ffff99" opacity="0.28"/>
+  <circle cx="280" cy="750" r="340" fill="#0284c7" opacity="0.3"/>
+  <g opacity="0.82">
+    <rect x="160" y="230" width="210" height="520" fill="url(#glass)"/>
+    <rect x="430" y="130" width="260" height="620" fill="url(#glass)"/>
+    <rect x="760" y="290" width="170" height="460" fill="url(#glass)"/>
+    <rect x="1010" y="190" width="290" height="560" fill="url(#glass)"/>
+  </g>
+  <g fill="#fff" opacity="0.34">
+    <rect x="205" y="285" width="52" height="34"/>
+    <rect x="286" y="285" width="52" height="34"/>
+    <rect x="205" y="360" width="52" height="34"/>
+    <rect x="286" y="360" width="52" height="34"/>
+    <rect x="478" y="205" width="62" height="38"/>
+    <rect x="576" y="205" width="62" height="38"/>
+    <rect x="478" y="300" width="62" height="38"/>
+    <rect x="576" y="300" width="62" height="38"/>
+    <rect x="1065" y="270" width="68" height="42"/>
+    <rect x="1174" y="270" width="68" height="42"/>
+    <rect x="1065" y="380" width="68" height="42"/>
+    <rect x="1174" y="380" width="68" height="42"/>
+  </g>
+  <path d="M0 760C260 690 460 790 700 724c250-70 420-158 690-82 82 23 151 56 210 91v167H0Z" fill="#020617" opacity="0.72"/>
+</svg>

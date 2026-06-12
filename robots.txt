@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://siddhast.com/sitemap.xml
