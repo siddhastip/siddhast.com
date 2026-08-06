@@ -78,15 +78,16 @@
 
   function buildUrlSearchParams(payload, spreadsheetId) {
     var pairs = [
-      ['name', payload.name],
-      ['email', payload.email],
+      ['name',    payload.name],
+      ['email',   payload.email],
       ['message', payload.message],
-      ['page', payload.page]
+      ['page',    payload.page]
     ];
-    if (payload.phone) pairs.push(['phone', payload.phone]);
+    if (payload.phone)   pairs.push(['phone',   payload.phone]);
     if (payload.company) pairs.push(['company', payload.company]);
-    if (payload.sentAt) pairs.push(['sentAt', payload.sentAt]);
-    if (spreadsheetId) pairs.push(['spreadsheetId', spreadsheetId]);
+    if (payload.sentAt)  pairs.push(['sentAt',  payload.sentAt]);
+    if (spreadsheetId)   pairs.push(['spreadsheetId', spreadsheetId]);
+    if (payload.recaptchaToken) pairs.push(['recaptchaToken', payload.recaptchaToken]);
 
     if (typeof URLSearchParams !== 'undefined') {
       var body = new URLSearchParams();
@@ -104,15 +105,16 @@
 
   function appsScriptFields(payload, spreadsheetId) {
     var fields = {
-      name: payload.name,
-      email: payload.email,
+      name:    payload.name,
+      email:   payload.email,
       message: payload.message,
-      page: payload.page,
-      sentAt: payload.sentAt
+      page:    payload.page,
+      sentAt:  payload.sentAt
     };
-    if (payload.phone) fields.phone = payload.phone;
-    if (payload.company) fields.company = payload.company;
-    if (spreadsheetId) fields.spreadsheetId = spreadsheetId;
+    if (payload.phone)          fields.phone = payload.phone;
+    if (payload.company)        fields.company = payload.company;
+    if (spreadsheetId)          fields.spreadsheetId = spreadsheetId;
+    if (payload.recaptchaToken) fields.recaptchaToken = payload.recaptchaToken;
     return fields;
   }
 

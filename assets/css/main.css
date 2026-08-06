@@ -1985,6 +1985,73 @@ html[data-cookie-consent] #cookie-banner {
     line-height: 1.6;
 }
 
+/* ── Math CAPTCHA ─────────────────────────────────────────────── */
+.contact-captcha {
+    padding: 1rem 1.1rem;
+    background: #fafafa;
+    border: 1px solid #e4e4e7;
+    border-left: 3px solid var(--brand-selection);
+    border-radius: 6px;
+}
+
+.contact-captcha__label {
+    margin-bottom: 0.6rem;
+}
+
+.contact-captcha__row {
+    display: flex;
+    align-items: center;
+    gap: 0.65rem;
+    flex-wrap: wrap;
+}
+
+.contact-captcha__question {
+    font-size: 1.05rem;
+    font-weight: 700;
+    font-family: 'Courier New', Courier, monospace;
+    color: var(--brand-dark);
+    background: var(--brand-selection);
+    padding: 0.4rem 0.9rem;
+    border-radius: 4px;
+    white-space: nowrap;
+    user-select: none;
+}
+
+.contact-captcha__input {
+    width: 90px !important;
+    text-align: center;
+    font-size: 1rem;
+    font-weight: 600;
+}
+
+.contact-captcha__refresh {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 34px;
+    height: 34px;
+    border: 1px solid #d4d4d8;
+    border-radius: 6px;
+    background: #fff;
+    color: var(--brand-muted);
+    cursor: pointer;
+    transition: color 0.2s ease, border-color 0.2s ease, transform 0.25s ease;
+    flex-shrink: 0;
+}
+
+.contact-captcha__refresh:hover {
+    color: var(--brand-dark);
+    border-color: var(--brand-dark);
+    transform: rotate(180deg);
+}
+
+.contact-captcha__hint {
+    font-size: 0.78rem;
+    color: var(--brand-muted);
+    margin: 0.5rem 0 0;
+}
+/* ────────────────────────────────────────────────────────────── */
+
 @media (max-width: 900px) {
     .contact-page__grid {
         grid-template-columns: 1fr;
